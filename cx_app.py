@@ -3,8 +3,8 @@ import streamlit as st
 import streamlit as st1
 import pyodbc
 import pandas as pd
-from utils.database import *
-from utils.functions import *
+#from utils.database import *
+#from utils.functions import *
 import plotly.express as px
 
 st.set_page_config(page_title="Dashboard CX", layout="wide")
